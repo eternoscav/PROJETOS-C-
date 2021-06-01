@@ -1,0 +1,9 @@
+D:\Projetos\C#\Mensagem_box\Mensagem_box\bin\Debug\Mensagem_box.exe
+D:\Projetos\C#\Mensagem_box\Mensagem_box\bin\Debug\Mensagem_box.pdb
+D:\Projetos\C#\Mensagem_box\Mensagem_box\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Mensagem_box\Mensagem_box\obj\x86\Debug\Mensagem_box.Form1.resources
+D:\Projetos\C#\Mensagem_box\Mensagem_box\obj\x86\Debug\Mensagem_box.Properties.Resources.resources
+D:\Projetos\C#\Mensagem_box\Mensagem_box\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Mensagem_box\Mensagem_box\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Mensagem_box\Mensagem_box\obj\x86\Debug\Mensagem_box.exe
+D:\Projetos\C#\Mensagem_box\Mensagem_box\obj\x86\Debug\Mensagem_box.pdb

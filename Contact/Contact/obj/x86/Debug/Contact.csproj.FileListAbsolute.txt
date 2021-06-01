@@ -1,0 +1,16 @@
+D:\Projetos\C#\Contact\Contact\bin\Debug\ContactDB.mdf
+D:\Projetos\C#\Contact\Contact\bin\Debug\ContactDB_log.ldf
+D:\Projetos\C#\Contact\Contact\bin\Debug\Contact.exe.config
+D:\Projetos\C#\Contact\Contact\bin\Debug\Contact.exe
+D:\Projetos\C#\Contact\Contact\bin\Debug\Contact.pdb
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\Contact.Form1.resources
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\Contact.Properties.Resources.resources
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\Contact.exe
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\Contact.pdb
+D:\Projetos\C#\Contact\Contact\bin\Debug\Contact.exe.manifest
+D:\Projetos\C#\Contact\Contact\bin\Debug\Contact.application
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\Contact.exe.manifest
+D:\Projetos\C#\Contact\Contact\obj\x86\Debug\Contact.application

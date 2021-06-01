@@ -1,0 +1,5 @@
+D:\Projetos\C#\Exemplo1\Exemplo1\bin\Debug\Exemplo1.exe
+D:\Projetos\C#\Exemplo1\Exemplo1\bin\Debug\Exemplo1.pdb
+D:\Projetos\C#\Exemplo1\Exemplo1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Exemplo1\Exemplo1\obj\x86\Debug\Exemplo1.exe
+D:\Projetos\C#\Exemplo1\Exemplo1\obj\x86\Debug\Exemplo1.pdb

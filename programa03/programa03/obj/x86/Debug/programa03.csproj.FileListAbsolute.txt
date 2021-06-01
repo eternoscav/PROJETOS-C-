@@ -1,0 +1,20 @@
+D:\Projetos\C#\programa03\programa03\bin\Debug\programa03.exe
+D:\Projetos\C#\programa03\programa03\bin\Debug\programa03.pdb
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\programa03.Properties.Resources.resources
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\programa03.exe
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\programa03.pdb
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\programa03.Talker.resources
+D:\Projetos\C#\programa03\programa03\obj\x86\Debug\programa03.Form1.resources
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\bin\Debug\programa03.exe
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\bin\Debug\programa03.pdb
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.csprojAssemblyReference.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.Form1.resources
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.Properties.Resources.resources
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.Talker.resources
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.csproj.GenerateResource.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.csproj.CoreCompileInputs.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.exe
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\programa03\programa03\obj\x86\Debug\programa03.pdb

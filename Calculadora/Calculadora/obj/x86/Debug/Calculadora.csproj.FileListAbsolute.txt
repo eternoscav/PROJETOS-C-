@@ -1,0 +1,16 @@
+D:\Projetos\C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Projetos\C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Projetos\C#\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+D:\Projetos\C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+D:\Projetos\C#\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\Projetos\C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache

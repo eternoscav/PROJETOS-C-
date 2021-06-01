@@ -1,0 +1,9 @@
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\bin\Debug\Operacoes_Basicas.exe
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\bin\Debug\Operacoes_Basicas.pdb
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\obj\x86\Debug\Operacoes_Basicas.Form1.resources
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\obj\x86\Debug\Operacoes_Basicas.Properties.Resources.resources
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\obj\x86\Debug\Operacoes_Basicas.exe
+D:\Projetos\C#\Operacoes_Basicas\Operacoes_Basicas\obj\x86\Debug\Operacoes_Basicas.pdb

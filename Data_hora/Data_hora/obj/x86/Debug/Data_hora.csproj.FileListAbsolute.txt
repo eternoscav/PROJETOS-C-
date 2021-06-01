@@ -1,0 +1,14 @@
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\Data_hora.Form1.resources
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\Data_hora.Properties.Resources.resources
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Data_hora\Data_hora\bin\Debug\Data_hora.exe
+D:\Projetos\C#\Data_hora\Data_hora\bin\Debug\Data_hora.pdb
+D:\Projetos\C#\Data_hora\Data_hora\bin\Debug\Data_hora.exe.CodeAnalysisLog.xml
+D:\Projetos\C#\Data_hora\Data_hora\bin\Debug\Data_hora.exe.lastcodeanalysissucceeded
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\Data_hora.exe
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\Data_hora.pdb
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\Data_hora.Form_data_hora.resources
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\Data_hora.sexualidade.resources
+D:\Projetos\C#\Data_hora\Data_hora\obj\x86\Debug\Data_hora.form_maskaras.resources

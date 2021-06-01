@@ -1,0 +1,8 @@
+D:\Projetos\C#\Teste\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Teste\Teste\obj\x86\Debug\Teste.Guy.resources
+D:\Projetos\C#\Teste\Teste\obj\x86\Debug\Teste.Properties.Resources.resources
+D:\Projetos\C#\Teste\Teste\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Teste\Teste\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste\Teste\obj\x86\Debug\Teste.Guy.resources
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste\Teste\obj\x86\Debug\Teste.Properties.Resources.resources
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste\Teste\obj\x86\Debug\Teste.csproj.GenerateResource.Cache

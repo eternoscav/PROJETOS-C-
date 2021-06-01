@@ -1,0 +1,14 @@
+D:\Projetos\C#\Teste2\Teste2\bin\Debug\Teste2.exe
+D:\Projetos\C#\Teste2\Teste2\bin\Debug\Teste2.pdb
+D:\Projetos\C#\Teste2\Teste2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Teste2\Teste2\obj\x86\Debug\Teste2.Form1.resources
+D:\Projetos\C#\Teste2\Teste2\obj\x86\Debug\Teste2.Properties.Resources.resources
+D:\Projetos\C#\Teste2\Teste2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Teste2\Teste2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Teste2\Teste2\obj\x86\Debug\Teste2.exe
+D:\Projetos\C#\Teste2\Teste2\obj\x86\Debug\Teste2.pdb
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste2\Teste2\obj\x86\Debug\Teste2.exe
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste2\Teste2\obj\x86\Debug\Teste2.pdb
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste2\Teste2\obj\x86\Debug\Teste2.Form1.resources
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste2\Teste2\obj\x86\Debug\Teste2.Properties.Resources.resources
+D:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\Teste2\Teste2\obj\x86\Debug\Teste2.csproj.GenerateResource.Cache

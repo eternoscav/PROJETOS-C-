@@ -1,0 +1,9 @@
+D:\Projetos\C#\Programa02\Programa02\bin\Debug\Programa02.exe
+D:\Projetos\C#\Programa02\Programa02\bin\Debug\Programa02.pdb
+D:\Projetos\C#\Programa02\Programa02\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Programa02\Programa02\obj\x86\Debug\Programa02.Form1.resources
+D:\Projetos\C#\Programa02\Programa02\obj\x86\Debug\Programa02.Properties.Resources.resources
+D:\Projetos\C#\Programa02\Programa02\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Programa02\Programa02\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Programa02\Programa02\obj\x86\Debug\Programa02.exe
+D:\Projetos\C#\Programa02\Programa02\obj\x86\Debug\Programa02.pdb

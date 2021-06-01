@@ -1,0 +1,15 @@
+G:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\CadastrodeClientes\CadastrodeClientes\bin\Debug\CadastrodeClientes.exe
+G:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\CadastrodeClientes\CadastrodeClientes\bin\Debug\CadastrodeClientes.pdb
+G:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.csprojResolveAssemblyReference.cache
+G:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.Properties.Resources.resources
+G:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.csproj.GenerateResource.Cache
+G:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.exe
+G:\DOCUMENTOS\VIDEOS GERAL\VIDEO AULAS\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.pdb
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\bin\Debug\CadastrodeClientes.exe
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\bin\Debug\CadastrodeClientes.pdb
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.csprojAssemblyReference.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.Properties.Resources.resources
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.csproj.GenerateResource.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.csproj.CoreCompileInputs.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.exe
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\CadastrodeClientes\CadastrodeClientes\obj\x86\Debug\CadastrodeClientes.pdb

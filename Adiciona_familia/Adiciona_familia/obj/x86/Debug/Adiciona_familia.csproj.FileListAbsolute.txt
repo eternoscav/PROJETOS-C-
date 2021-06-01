@@ -1,0 +1,18 @@
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\bin\Debug\Adiciona_familia.exe
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\bin\Debug\Adiciona_familia.pdb
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.Form1.resources
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.Properties.Resources.resources
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.exe
+D:\Projetos\C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.pdb
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\bin\Debug\Adiciona_familia.exe
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\bin\Debug\Adiciona_familia.pdb
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.csprojAssemblyReference.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.Form1.resources
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.Properties.Resources.resources
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.csproj.GenerateResource.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.csproj.CoreCompileInputs.cache
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.exe
+C:\Users\etern\Downloads\PROJETO C#\PROJETO C#\Adiciona_familia\Adiciona_familia\obj\x86\Debug\Adiciona_familia.pdb
